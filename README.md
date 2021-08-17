@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I started coding for fun as a kid. I have spent more than 10 years building interacting experiences for / and as an artist (have you heard of Processing? 🎈) while working with SEO & digital design 🎨 from 9 to 6pm. Now I'm a very curious Front-End Developer 😍
+I started coding for fun as a kid...
+After 10 years building interacting experiences and installations 🤖
+(while working with SEO & digital design from 9 to 6pm 🙉),
+I finally became a very curious Front-End Developer 😍
 
 ### aboutMe.js
 
