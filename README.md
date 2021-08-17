@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I started coding for fun as a kid...
-After 10 years building interacting experiences and installations 🤖
-(while working with SEO & digital design from 9 to 6pm 🙉),
+I started coding for fun as a kid...<br>
+After 10 years building interacting experiences and installations 🤖<br>
+( while working with SEO & digital design from 9 to 6pm 🙉 ),<br>
 I finally became a very curious Front-End Developer 😍
 
 ### aboutMe.js
