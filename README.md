@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Apart from being a very curious and passionate developer 😍 I love to build robots and create beautiful interactive installations 🤖<br>
+Apart from being a very curious and passionate developer 😍 <br>I love to build robots and create beautiful interactive installations 🤖<br>
 
 ### aboutMe.js
 
