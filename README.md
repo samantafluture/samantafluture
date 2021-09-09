@@ -15,7 +15,7 @@ const samanta = {
             css: ["tailwindcss", "bootstrap", "materialize", "material"]
         },
         backEnd: {
-            js: ["node.js", "nest.js", "adonis", "next.js", "firebase"],
+            js: ["node.js", "nest.js", "adonis", "express", "next.js", "graphql"],
             database: ["mongodb", "mysql", "postgresql"],
             devops: ["linux", "docker", "git"]
         },
