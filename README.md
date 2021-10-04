@@ -6,6 +6,8 @@
 📚 &nbsp;&nbsp; Currently learning: Go <br>
 🤙🏼 &nbsp;&nbsp; Currently looking for: web dev positions <br>
 
+<a href="https://www.linkedin.com/in/samantafluture/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
+
 ### aboutMe.js
 
 ```javascript
