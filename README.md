@@ -1,6 +1,17 @@
 ### Hi there 👋
 
-Apart from being a very curious and passionate developer 😍 <br>I love to build robots and create beautiful interactive installations 🤖<br>
+* 😍 Currently loving: Angular & NestJS together
+* 🤖 Currently building: [a task app](https://github.com/samantafluture/clever-front) as my SE grad project
+* 🎨 Currently experimenting with: WebRTC & three.js
+* 📚 Currently learning: Go
+* 🤙🏼 Currently looking for: web dev positions
+
+![Twitter](https://img.shields.io/twitter/url?label=%40samantafluture&style=social&url=https%3A%2F%2Ftwitter.com%2Fsamantafluture)
+](https://twitter.com/samantafluture)
+
+[Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+](https://www.linkedin.com/in/samantafluture/)
+
 
 ### aboutMe.js
 
