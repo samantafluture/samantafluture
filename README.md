@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-😍   Currently loving: Angular & NestJS together<br>
-🤖   Currently building: [a task app](https://github.com/samantafluture/clever-front) as my SE grad project<br>
-🎨   Currently experimenting with: WebRTC & three.js<br>
-📚   Currently learning: Go<br>
-🤙🏼   Currently looking for: web dev positions<br>
+😍 &nbsp;Currently loving: Angular & NestJS together<br>
+🤖 &nbsp;Currently building: [a task app](https://github.com/samantafluture/clever-front) as my SE grad project<br>
+🎨 &nbsp;Currently experimenting with: WebRTC & three.js<br>
+📚 &nbsp;Currently learning: Go<br>
+🤙🏼&nbsp;Currently looking for: web dev positions<br>
 
 ### aboutMe.js
 
