@@ -1,10 +1,12 @@
-### Hi there 👋
+### Oi 👋
 
-😍 &nbsp;&nbsp; Currently loving: Angular & NestJS together <br>
-🤖 &nbsp;&nbsp; Currently building: [a task app](https://github.com/samantafluture/clever-front) as my SE grad project <br>
-🎨 &nbsp;&nbsp; Currently experimenting with: WebRTC & three.js <br>
-📚 &nbsp;&nbsp; Currently learning: Go <br>
-🤙🏼 &nbsp;&nbsp; Currently looking for: web dev positions <br>
+Currently, I am...
+
+💜 &nbsp;&nbsp; loving: Angular & NestJS together <br>
+🤖 &nbsp;&nbsp; building: [a task app](https://github.com/samantafluture/clever-front) as SE grad project <br>
+🏀 &nbsp;&nbsp; playing with: WebRTC <br>
+🚀 &nbsp;&nbsp; learning: Three.js <br>
+🔎 &nbsp;&nbsp; looking for: web dev position <br>
 
 <a href="https://www.linkedin.com/in/samantafluture/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
 
