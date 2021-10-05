@@ -1,5 +1,8 @@
 ### Oi 👋
 
+She/Her <br>
+Developer from Brazil 🇧🇷 &nbsp;&nbsp;based in Montreal 🇨🇦 <br><br>
+
 Currently, I am...
 
 💜 &nbsp;&nbsp; loving: Angular & NestJS together <br>
