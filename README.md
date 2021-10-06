@@ -1,7 +1,6 @@
 ### Oi 👋
 
-She/Her <br>
-Developer from Brazil 🇧🇷 &nbsp;&nbsp;based in Montreal 🇨🇦 <br>
+[she/her] From Brazil 🇧🇷 &nbsp;&nbsp;based in Montreal 🇨🇦 <br>
 
 Currently, I am...
 
