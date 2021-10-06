@@ -10,7 +10,7 @@ Currently, I am...
 🚀 &nbsp;&nbsp; learning: Three.js <br>
 🔎 &nbsp;&nbsp; looking for: web dev position <br>
 
-<a href="https://www.linkedin.com/in/samantafluture/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
+[![Linkedin Badge](https://img.shields.io/badge/-Samanta%20Fluture-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samantafluture/)](https://www.linkedin.com/in/samantafluture/) 
 
 ### aboutMe.js
 
