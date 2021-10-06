@@ -6,6 +6,7 @@ Currently, I am...
 
 💜 &nbsp;&nbsp; loving: Angular & NestJS together <br>
 🤖 &nbsp;&nbsp; building: [a task app](https://github.com/samantafluture/clever-front) as SE grad project <br>
+📦 &nbsp;&nbsp; working with: Shopify API <br>
 🏀 &nbsp;&nbsp; playing with: WebRTC <br>
 🚀 &nbsp;&nbsp; learning: Three.js <br>
 🔎 &nbsp;&nbsp; looking for: web dev position <br>
