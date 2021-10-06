@@ -1,6 +1,6 @@
 ### Oi 👋
 
-[she/her] 🇧🇷🇨🇦 <br>
+*she / her*<br>
 
 Currently, I am...
 
