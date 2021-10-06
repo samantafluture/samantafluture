@@ -1,6 +1,6 @@
 ### Oi 👋
 
-[she/her] From Brazil 🇧🇷 &nbsp;&nbsp;based in Montreal 🇨🇦 <br>
+[she/her] 🇧🇷🇨🇦 <br>
 
 Currently, I am...
 
