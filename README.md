@@ -7,12 +7,11 @@ Currently, I am...
 💜 &nbsp;&nbsp; loving: Angular & NestJS together <br>
 🤖 &nbsp;&nbsp; building: [a task app](https://github.com/samantafluture/clever-front) as SE grad project <br>
 📦 &nbsp;&nbsp; working with: Shopify API <br>
-🏀 &nbsp;&nbsp; playing with: WebRTC <br>
+🏀 &nbsp;&nbsp; playing with: WebRTC & WebGL <br>
 🚀 &nbsp;&nbsp; learning: Three.js <br>
 🔎 &nbsp;&nbsp; looking for: web dev position <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Samanta%20Fluture-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samantafluture/)](https://www.linkedin.com/in/samantafluture/) 
-
 [![Gmail Badge](https://img.shields.io/badge/-samantafluture@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samantafluture@gmail.com)](mailto:samantafluture@gmail.com)
 
 ### aboutMe.js
