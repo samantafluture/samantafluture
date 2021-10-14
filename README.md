@@ -2,6 +2,8 @@
 
 *she / her*<br>
 
+I’m a passionate developer with a strong interest in creating and testing awesome + accessible interfaces.
+
 Currently, I am...
 
 💜 &nbsp;&nbsp; loving: Angular & NestJS together <br>
