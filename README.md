@@ -6,9 +6,9 @@ I’m a passionate developer with a strong interest in creating and testing awes
 
 Currently, I am...
 
-💜 &nbsp;&nbsp; loving: Next.js & GraphQL together <br>
+💜 &nbsp;&nbsp; loving: Nest.js <br>
 🤖 &nbsp;&nbsp; building: [a task app](https://github.com/samantafluture/clever-front) as SE grad project <br>
-📦 &nbsp;&nbsp; working with: headless eCommerce <br>
+📦 &nbsp;&nbsp; working with: React, Web Components <br>
 🏀 &nbsp;&nbsp; playing with: WebRTC & Three.js <br>
 🚀 &nbsp;&nbsp; learning: Node.js <br>
 🔎 &nbsp;&nbsp; looking for: web dev position <br>
