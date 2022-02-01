@@ -2,14 +2,14 @@
 
 *she / her*<br>
 
-I’m a passionate developer with a strong interest in creating and testing awesome + accessible interfaces.
+I’m a passionate developer with a strong interest in creating awesome + accessible interfaces.
 
 Currently, I am...
 
-💜 &nbsp;&nbsp; loving: Nest.js <br>
+💜 &nbsp;&nbsp; loving: Next.js <br>
 🤖 &nbsp;&nbsp; building: [a task app](https://github.com/samantafluture/clever-front) as SE grad project <br>
 📦 &nbsp;&nbsp; working with: React & Web Components <br>
-🏀 &nbsp;&nbsp; playing with: GSAP & Three.js <br>
+🏀 &nbsp;&nbsp; playing with: Three.js <br>
 🚀 &nbsp;&nbsp; learning: Node.js <br>
 🔎 &nbsp;&nbsp; looking for: web dev position <br>
 
