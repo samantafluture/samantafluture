@@ -8,7 +8,7 @@ Currently, I am...
 
 💜 &nbsp;&nbsp; loving: Next.js <br>
 🤖 &nbsp;&nbsp; building: [a task app](https://github.com/samantafluture/clever-front) as SE grad project <br>
-📦 &nbsp;&nbsp; working with: React & Web Components <br>
+📦 &nbsp;&nbsp; working with: React & Java (Srping) <br>
 🏀 &nbsp;&nbsp; playing with: Three.js <br>
 🚀 &nbsp;&nbsp; learning: Node.js <br>
 🔎 &nbsp;&nbsp; looking for: web dev position <br>
